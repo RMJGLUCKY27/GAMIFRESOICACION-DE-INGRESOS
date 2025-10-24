@@ -2,6 +2,8 @@
 
 Una aplicación móvil para iOS desarrollada en SwiftUI que permite a los usuarios gestionar sus gastos, establecer presupuestos y hacer seguimiento de sus hábitos financieros de manera gamificada.
 
+video: https://youtube.com/shorts/yTprzjlL5pM?feature=share
+
 ## 📱 Características Principales
 
 ### 💰 Gestión de Transacciones
