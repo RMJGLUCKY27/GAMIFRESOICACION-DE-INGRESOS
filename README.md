@@ -4,6 +4,10 @@ Una aplicación móvil para iOS desarrollada en SwiftUI que permite a los usuari
 
 video: https://youtube.com/shorts/yTprzjlL5pM?feature=share
 
+## Documentación de Análisis
+- [Ver Análisis Detallado de Flujos de Trabajo](docs/WORKFLOW_ANALYSIS.md)
+- [Ver Actividad 9 - Análisis de Flujos de Trabajo](docs/Actividad_9.md)
+
 ## 📱 Características Principales
 
 ### 💰 Gestión de Transacciones
@@ -615,10 +619,3 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📞 Contacto
-
-[Información de contacto del desarrollador]
-
----
-
-⭐ Si te gusta este proyecto, ¡no olvides darle una estrella!
